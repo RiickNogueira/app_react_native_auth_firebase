@@ -4,19 +4,19 @@
 ![Sign up](./screenshots/cadastro.PNG "Sign up")
 ![Main](./screenshots/principal.PNG "Main")
 
-# How to install
-
+## How to install
 * Run `react-native init your-app-name`
 * Run `cd your-app-name`
 * Clone this repository `git clone https://github.com/RiickNogueira/app_react_native_auth_firebase.git`
 * Run `npm install`
-* Modify `AppRegistry.registerComponent` to your app name in `index.android` and `index.ios`
 
-# Android
+## Important!
+* Modify `config_firebase` to your firebase object config in `app.js`
+* Modify `AppRegistry.registerComponent` to your app name in `index.android.js` and `index.ios.js`
 
+## Run Android
 * Run `react-native run-android`
 
-# IOS
-
+## IOS
 Not supported 
 
