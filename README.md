@@ -5,9 +5,10 @@
 ![Main](./screenshots/principal.PNG "Main")
 
 ## How to install
+* Clone this repository `git clone https://github.com/RiickNogueira/app_react_native_auth_firebase.git`
+* Rename directory `app_react_native_auth_firebase` to `your-app-name`
 * Run `react-native init your-app-name`
 * Run `cd your-app-name`
-* Clone this repository `git clone https://github.com/RiickNogueira/app_react_native_auth_firebase.git`
 * Run `npm install`
 
 ## Important!
